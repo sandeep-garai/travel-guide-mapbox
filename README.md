@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+![img3](https://github.com/sandeep-garai/travel-guide-mapbox/assets/79070318/46c0de1a-d8d1-4e5e-b546-d959b4209572)# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -38,6 +38,13 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Screenshots
+![img1](https://github.com/sandeep-garai/travel-guide-mapbox/assets/79070318/ac797a3f-27fd-4e35-96fa-48633f76c732)
+![img2](https://github.com/sandeep-garai/travel-guide-mapbox/assets/79070318/a330e9b9-ff5b-4109-95ef-0d630d4d88f8)
+![img3](https://github.com/sandeep-garai/travel-guide-mapbox/assets/79070318/096f04a0-41d4-4e1c-81ec-3f51a0f03757)
+
+
 
 ## Learn More
 
