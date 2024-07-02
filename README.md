@@ -1,5 +1,3 @@
-![img3](https://github.com/sandeep-garai/travel-guide-mapbox/assets/79070318/46c0de1a-d8d1-4e5e-b546-d959b4209572)# Getting Started with Create React App
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
